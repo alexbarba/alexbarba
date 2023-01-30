@@ -29,4 +29,8 @@
   ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma)
   ![HeadlessUI](https://img.shields.io/badge/-HeadlessUI-333333?style=flat&logo=HeadlessUI)
   ![RadixUI](https://img.shields.io/badge/-RadixUI-333333?style=flat&logo=RadixUI)
-    
+  
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/alexisbarba)
+
+
