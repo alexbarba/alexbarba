@@ -31,6 +31,7 @@
   ![RadixUI](https://img.shields.io/badge/-RadixUI-333333?style=flat&logo=RadixUI)
   
 <h3> 🗣️ &nbsp;Social</h3>
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=Linkedin)](https://www.linkedin.com/in/alexisbarba)
 
 
